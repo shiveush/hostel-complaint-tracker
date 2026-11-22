@@ -90,7 +90,7 @@ Complaint Tracker App
 3. Admin Login
 4. Exit
 Enter your choice: 2
-Enter your register number: 713923104100
+Enter your register number: ********
 Enter your name: Shiveush P
 Enter your password: ********
 Student registered successfully.
